@@ -12,3 +12,6 @@ I'm a Developer Trainee :computer:
 - 💬   Ask me about: tech, movies, tech, music, tech, life...
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkrieger&show_icons=true%22%20alt=%22samuelkriegerbonini%22" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkrieger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
