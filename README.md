@@ -11,7 +11,8 @@ I'm a Developer Trainee :computer:
 - :computer:   Java,Spring,Docker,MYSQL
 - 💬   Ask me about: tech, movies, tech, music, tech, life...
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkrieger&show_icons=true%22%20alt=%22samuelkriegerbonini%22" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelkrieger" alt="samuelkrieger" /></a> </p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkrieger&show_icons=true%22%20alt=%22samuelkriegerbonini%22" /> </p>
 
 
